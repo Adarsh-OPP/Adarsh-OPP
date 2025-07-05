@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adarsh-OPP
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning AI ML and C++
+- 🌱 I’m currently learning AI ML
 - 📫 How to reach me- Discord(adarsh0910)
 ## 🛠️ Skills & Tools
 

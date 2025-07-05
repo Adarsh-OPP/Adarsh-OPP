@@ -7,6 +7,7 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### 📚 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -22,6 +23,7 @@
 
 ### 🎮 Game Engine
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=flat&logo=unrealengine&logoColor=white)
+
 
 <!---
 Adarsh-OPP/Adarsh-OPP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

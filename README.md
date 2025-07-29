@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Adarsh-OPP
-- 👀 I’m interested in programming and tech
-- 🌱 I’m currently learning AI ML
-- 📫 How to reach me- Discord(adarsh0910)
+# 👋 Hi, I’m @Adarsh-OPP
+
+- 👀 I’m interested in programming and tech  
+- 🌱 I’m currently learning AI & ML  
+- 📫 Reach me on Discord: **adarsh0910**
+
+---
+
 ## 🛠️ Skills & Tools
 
 ### 💻 Programming Languages
@@ -16,8 +20,6 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0099C6?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?logo=opencv&logoColor=white)
 
-
-
 ### 🧰 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -27,6 +29,17 @@
 ### 🎮 Game Engine
 ![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
+---
+
+## 📂 My Project Directories
+
+Click any of the categories below to explore what I’ve built:
+
+- 🧠 [AI and Data Science Projects](https://github.com/Adarsh-OPP/Ai-and-Data-Science)  
+- 🤖 [Computer Vision with Arduino](https://github.com/Adarsh-OPP/Computer-Vision-With-Arduino)  
+- 💻 [Coding Projects – Learning Phase](https://github.com/Adarsh-OPP/Coding-Project-Learning-Phase)
+
+---
 
 <!---
 Adarsh-OPP/Adarsh-OPP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

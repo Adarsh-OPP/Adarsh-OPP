@@ -21,6 +21,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0099C6?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)
 
 ### 🧰 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)

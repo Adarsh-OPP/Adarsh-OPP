@@ -2,6 +2,7 @@
 
 - 👀 I’m interested in programming and tech  
 - 🌱 I’m currently learning AI & ML  
+- 🎯 **Goal**: To become an expert in **AI & Machine Learning**, specializing in **Computer Vision** and building real-world intelligent systems.  
 - 📫 Reach me on Discord: **adarsh0910**
 
 ---

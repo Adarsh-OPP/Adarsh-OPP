@@ -38,7 +38,7 @@
 Click any of the categories below to explore what I’ve built:
 
 - 🧠 [AI and Data Science Projects](https://github.com/Adarsh-OPP/Ai-and-Data-Science)  
-- 🤖 [Computer Vision with Arduino](https://github.com/Adarsh-OPP/Computer-Vision-With-Arduino)  
+- 🤖 [Computer Vision with Embedded Systems](https://github.com/Adarsh-OPP/Computer-Vision-With-Embedded-Systems)  
 - 💻 [Coding Projects – Learning Phase](https://github.com/Adarsh-OPP/Coding-Project-Learning-Phase)
 
 ---

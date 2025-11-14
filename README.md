@@ -21,6 +21,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 
 ### 🧰 Tools & IDEs

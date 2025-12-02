@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Adarsh-OPP
 
 - 👀 I’m interested in building real-world projects with code  
-- 🌱 I’m currently learning **AI & ML** with **Computer Vision**
+- 🌱 Currently mastering **Deep Learning** with **PyTorch**😁😁😁
 - 📫 Reach me on Discord: **adarsh0910**
 
 ---

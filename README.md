@@ -3,7 +3,6 @@
 - 👀 I’m interested in building real-world projects with code  
 - 🌱 Currently mastering **Deep Learning** with **PyTorch**😁😁😁
 - 📫 Reach me on Discord: **adarsh0910**
-- Its Way Fun When No One Knows About Your Grind
 - 10Th Grade
 ---
 

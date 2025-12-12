@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Adarsh-OPP
+# 👋 Hi, I’m @Adarsh-Kumar
 
 - 👀 I’m interested in building real-world projects with code  
 - 🌱 Currently mastering **Deep Learning** with **PyTorch**😁😁😁

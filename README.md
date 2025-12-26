@@ -38,7 +38,7 @@
 
 ---
 
-## 📂 My Project Directories
+## 📂 My Project Directories(*NOTE - All my readme is made with help of AI*)
 
 Click any of the categories below to explore what I’ve built:
 

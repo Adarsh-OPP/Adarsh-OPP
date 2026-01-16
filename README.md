@@ -3,7 +3,7 @@
 - 👀 I’m interested in building real-world projects with code  
 - 🌱 Currently mastering **Deep Learning** with **PyTorch**😁😁😁
 - 📫 Reach me on Discord: **adarsh0910**
-- 🏅Maybe Kaggle youngest Expert https://www.kaggle.com/adarsh2626
+- 🏅 One of Kaggle youngest Expert https://www.kaggle.com/adarsh2626
 ---
 
 ## 🛠️ Skills & Tools

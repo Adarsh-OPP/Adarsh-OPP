@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in building real-world projects with code  
 - 🌱 Currently mastering **Deep Learning** with **PyTorch**😁😁😁
-- 📫 Reach me on Discord: **adarsh0910**
+- 📫 Reach me on Linkedin: https://www.linkedin.com/in/adarsh2626/
 - 🏅 Kaggle Master(124th in the world) https://www.kaggle.com/adarsh2626
 ---
 

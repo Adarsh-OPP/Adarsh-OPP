@@ -4,7 +4,7 @@
 - 🌱 Currently mastering **Deep Learning** with **PyTorch**😁😁😁
 - 📫 Reach me on Linkedin: https://www.linkedin.com/in/adarsh2626/
 - 🏅 Kaggle Master(124th in the world) https://www.kaggle.com/adarsh2626
-- 👁 16 year old self learner ML enthusiast earned over $500 by training ML models 
+- 👁 16 year old self learner ML/tech enthusiast earned over $500 by training ML models 
 ---
 
 ## 🛠️ Skills & Tools
